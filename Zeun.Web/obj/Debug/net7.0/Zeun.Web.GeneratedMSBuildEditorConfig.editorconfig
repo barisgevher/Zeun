@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zeun.Web
+build_property.RootNamespace = Zeun.Web
+build_property.ProjectDir = C:\Users\nostr\OneDrive\Masaüstü\Proje\SIS\Zeun\Zeun\Zeun.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nostr\OneDrive\Masaüstü\Proje\SIS\Zeun\Zeun\Zeun.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/BolumMufredati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxCb2x1bU11ZnJlZGF0aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/DersKayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEZXJzS2F5aXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/DersProgrami.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEZXJzUHJvZ3JhbWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/DonemDersleri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxEb25lbURlcnNsZXJpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/OzlukBilgileri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxPemx1a0JpbGdpbGVyaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/SinavNotlari.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxTaW5hdk5vdGxhcmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/SinavTakvimi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxTaW5hdlRha3ZpbWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Ogrenci/Transkript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaVxUcmFuc2tyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/BolumMufredati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcQm9sdW1NdWZyZWRhdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/Danismanlik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcRGFuaXNtYW5saWsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/Degerlendirme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcRGVnZXJsZW5kaXJtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/DersKayitOnayi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcRGVyc0theWl0T25heWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/DersProgrami.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcRGVyc1Byb2dyYW1pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/OzlukBilgileri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcT3psdWtCaWxnaWxlcmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/SinavTakvimi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcU2luYXZUYWt2aW1pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/SinavTanimla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcU2luYXZUYW5pbWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/OgretimElemani/VerilenDersler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZXRpbUVsZW1hbmlcVmVyaWxlbkRlcnNsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Shared/_OgrenciLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZ3JlbmNpTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Shared/_OgretimElemaniLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PZ3JldGltRWxlbWFuaUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nostr/OneDrive/Masaüstü/Proje/SIS/Zeun/Zeun/Zeun.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

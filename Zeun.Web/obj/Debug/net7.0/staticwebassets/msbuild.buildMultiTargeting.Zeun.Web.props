@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zeun.Web.props" />
+</Project>

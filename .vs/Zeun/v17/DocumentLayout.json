@@ -1,0 +1,1075 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\bolummufredati.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\bolummufredati.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\shared\\_ogrencilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\shared\\_ogrencilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\verilendersler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\verilendersler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\sinavtanimla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\sinavtanimla.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\sinavtakvimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\sinavtakvimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\ozlukbilgileri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\ozlukbilgileri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\dersprogrami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\dersprogrami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\derskayitonayi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\derskayitonayi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\degerlendirme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\degerlendirme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\danismanlik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\danismanlik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogretimelemani\\bolummufredati.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogretimelemani\\bolummufredati.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\transkript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\transkript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\sinavtakvimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\sinavtakvimi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\sinavnotlari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\sinavnotlari.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\ozlukbilgileri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\ozlukbilgileri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\donemdersleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\donemdersleri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\dersprogrami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\dersprogrami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\ogrenci\\derskayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\ogrenci\\derskayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\migrations\\ogrencidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\migrations\\ogrencidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\migrations\\20240109144436_hayirlisi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\migrations\\20240109144436_hayirlisi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\migrations\\20240109143815_hayirlisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\migrations\\20240109143815_hayirlisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\data\\ogrencidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\data\\ogrencidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\controllers\\ogretimelemanicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\controllers\\ogretimelemanicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\views\\shared\\_ogretimelemanilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\views\\shared\\_ogretimelemanilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersalmadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersalmadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersalma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersalma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersacma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersacma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\degerlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\degerlendirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\danismanlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\danismanlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\cinsiyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\cinsiyet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\bolum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\akademikyil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\akademikyil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\akademikdonem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\akademikdonem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\ogretimelemaniviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\ogretimelemaniviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\ogrenciozlukbilgileriviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\ogrenciozlukbilgileriviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\ogretimelemani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\ogretimelemani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\mufredat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\mufredat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\sinav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dershavuzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dershavuzu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\derslikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\derslikturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\unvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\unvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\ogrencidurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\ogrencidurum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\derslik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\derslik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\sinavturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\sinavturu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\derssaati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\derssaati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|c:\\users\\nostr\\onedrive\\masa\u00FCst\u00FC\\proje\\sis\\zeun\\zeun\\zeun.web\\models\\dersgunu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3635DDBD-AEBC-483C-A7E7-766BD03AA390}|Zeun.Web\\Zeun.Web.csproj|solutionrelative:zeun.web\\models\\dersgunu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerilenDersler.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\VerilenDersler.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\VerilenDersler.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\VerilenDersler.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\VerilenDersler.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:53:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinavTanimla.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\SinavTanimla.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\SinavTanimla.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\SinavTanimla.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\SinavTanimla.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:53:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinavTakvimi.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\SinavTakvimi.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\SinavTakvimi.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\SinavTakvimi.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\SinavTakvimi.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:53:14.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OzlukBilgileri.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\OzlukBilgileri.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\OzlukBilgileri.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\OzlukBilgileri.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\OzlukBilgileri.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:51:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Index.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T17:51:51.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DersKayitOnayi.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\DersKayitOnayi.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\DersKayitOnayi.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\DersKayitOnayi.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\DersKayitOnayi.cshtml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:10:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_OgrenciLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_OgrenciLayout.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Shared\\_OgrenciLayout.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_OgrenciLayout.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Shared\\_OgrenciLayout.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAMQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Program.cs",
+              "RelativeToolTip": "Zeun.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:53:35.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BolumMufredati.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\BolumMufredati.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\BolumMufredati.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\BolumMufredati.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\BolumMufredati.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:04:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Degerlendirme.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Degerlendirme.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\Degerlendirme.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Degerlendirme.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\Degerlendirme.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:09:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DonemDersleri.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DonemDersleri.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\DonemDersleri.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DonemDersleri.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\DonemDersleri.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:05:32.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OzlukBilgileri.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\OzlukBilgileri.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\OzlukBilgileri.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\OzlukBilgileri.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\OzlukBilgileri.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SinavNotlari.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\SinavNotlari.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\SinavNotlari.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\SinavNotlari.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\SinavNotlari.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SinavTakvimi.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\SinavTakvimi.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\SinavTakvimi.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\SinavTakvimi.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\SinavTakvimi.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAADsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Transkript.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\Transkript.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\Transkript.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\Transkript.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\Transkript.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DersProgrami.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\DersProgrami.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\DersProgrami.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\DersProgrami.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\DersProgrami.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAHoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DersProgrami.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DersProgrami.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\DersProgrami.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DersProgrami.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\DersProgrami.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:04:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BolumMufredati.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\BolumMufredati.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\BolumMufredati.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\BolumMufredati.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\BolumMufredati.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Danismanlik.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Danismanlik.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\OgretimElemani\\Danismanlik.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\OgretimElemani\\Danismanlik.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\OgretimElemani\\Danismanlik.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:57:08.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DersKayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DersKayit.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Ogrenci\\DersKayit.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Ogrenci\\DersKayit.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Ogrenci\\DersKayit.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T13:04:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OgrenciDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\OgrenciDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Migrations\\OgrenciDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\OgrenciDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Zeun.Web\\Migrations\\OgrenciDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJkFAAAAAAAAAAAAAKsFAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:03:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240109144436_hayirlisi2.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\20240109144436_hayirlisi2.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Migrations\\20240109144436_hayirlisi2.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\20240109144436_hayirlisi2.cs",
+              "RelativeToolTip": "Zeun.Web\\Migrations\\20240109144436_hayirlisi2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:03:20.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Zeun.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Zeun.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "Zeun.Web\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAAOgCAAAAAAAAAAAAAPkCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:54:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:54:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:54:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Zeun.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\appsettings.json",
+              "RelativeToolTip": "Zeun.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:58:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OgretimElemaniController.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\OgretimElemaniController.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Controllers\\OgretimElemaniController.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Controllers\\OgretimElemaniController.cs",
+              "RelativeToolTip": "Zeun.Web\\Controllers\\OgretimElemaniController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OgrenciDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Data\\OgrenciDbContext.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Data\\OgrenciDbContext.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Data\\OgrenciDbContext.cs",
+              "RelativeToolTip": "Zeun.Web\\Data\\OgrenciDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240109143815_hayirlisi.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\20240109143815_hayirlisi.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Migrations\\20240109143815_hayirlisi.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Migrations\\20240109143815_hayirlisi.cs",
+              "RelativeToolTip": "Zeun.Web\\Migrations\\20240109143815_hayirlisi.cs",
+              "ViewState": "AgIAAO0DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:58:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:58:20.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DersAlmaDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAlmaDurumu.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersAlmaDurumu.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAlmaDurumu.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersAlmaDurumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:55:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DersAcma.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAcma.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersAcma.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAcma.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersAcma.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Degerlendirme.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Degerlendirme.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Degerlendirme.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Degerlendirme.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Degerlendirme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Danismanlik.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Danismanlik.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Danismanlik.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Danismanlik.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Danismanlik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Cinsiyet.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Cinsiyet.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Cinsiyet.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Cinsiyet.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Cinsiyet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:55:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_OgretimElemaniLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_OgretimElemaniLayout.cshtml",
+              "RelativeDocumentMoniker": "Zeun.Web\\Views\\Shared\\_OgretimElemaniLayout.cshtml",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Views\\Shared\\_OgretimElemaniLayout.cshtml",
+              "RelativeToolTip": "Zeun.Web\\Views\\Shared\\_OgretimElemaniLayout.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAEAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T12:52:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AkademikYil.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\AkademikYil.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\AkademikYil.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\AkademikYil.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\AkademikYil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AkademikDonem.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\AkademikDonem.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\AkademikDonem.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\AkademikDonem.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\AkademikDonem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DersAlma.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAlma.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersAlma.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersAlma.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersAlma.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Bolum.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Bolum.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Bolum.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Bolum.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Bolum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OgretimElemaniViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgretimElemaniViewModel.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\OgretimElemaniViewModel.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgretimElemaniViewModel.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\OgretimElemaniViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OgrenciOzlukBilgileriViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgrenciOzlukBilgileriViewModel.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\OgrenciOzlukBilgileriViewModel.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgrenciOzlukBilgileriViewModel.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\OgrenciOzlukBilgileriViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OgretimElemani.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgretimElemani.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\OgretimElemani.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgretimElemani.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\OgretimElemani.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Mufredat.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Mufredat.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Mufredat.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Mufredat.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Mufredat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Sinav.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Sinav.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Sinav.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Sinav.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Sinav.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DersTuru.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersTuru.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersTuru.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersTuru.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersTuru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DersHavuzu.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersHavuzu.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersHavuzu.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersHavuzu.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersHavuzu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DerslikTuru.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DerslikTuru.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DerslikTuru.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DerslikTuru.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DerslikTuru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:55.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Unvan.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Unvan.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Unvan.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Unvan.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Unvan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Ogrenci.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Ogrenci.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OgrenciDurum.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgrenciDurum.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\OgrenciDurum.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\OgrenciDurum.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\OgrenciDurum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Derslik.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Derslik.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\Derslik.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\Derslik.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\Derslik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DersGunu.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersGunu.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersGunu.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersGunu.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersGunu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SinavTuru.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\SinavTuru.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\SinavTuru.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\SinavTuru.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\SinavTuru.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DersSaati.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersSaati.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersSaati.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersSaati.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersSaati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DersProgrami.cs",
+              "DocumentMoniker": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersProgrami.cs",
+              "RelativeDocumentMoniker": "Zeun.Web\\Models\\DersProgrami.cs",
+              "ToolTip": "C:\\Users\\nostr\\OneDrive\\Masa\u00FCst\u00FC\\Proje\\SIS\\Zeun\\Zeun\\Zeun.Web\\Models\\DersProgrami.cs",
+              "RelativeToolTip": "Zeun.Web\\Models\\DersProgrami.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:52:56.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
