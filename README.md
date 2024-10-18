@@ -32,4 +32,4 @@
 ![sinavTanimla](https://github.com/user-attachments/assets/e905b3c3-ede6-4a84-b9c6-844e127c6930)
 
 ####  Lessons Given
-![verilenDersler](https://github.com/user-attachments/assets/006b0d0d-4ad4-435d-9af7-bc799987e50c
+![GivenLessons](https://github.com/user-attachments/assets/006b0d0d-4ad4-435d-9af7-bc799987e50c
