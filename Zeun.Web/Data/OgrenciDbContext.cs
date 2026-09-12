@@ -80,9 +80,7 @@ public partial class OgrenciDbContext : DbContext
 
     public virtual DbSet<Yandal> Yandals { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
-        => optionsBuilder.UseSqlServer("Your Sql connection string");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -284,7 +282,7 @@ public partial class OgrenciDbContext : DbContext
                 .HasForeignKey(d => d.DersTuruId)
                 .HasConstraintName("FK_DersHavuzu_DerslikTuru");
 
-     
+
 
 
         });
