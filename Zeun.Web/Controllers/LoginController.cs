@@ -1,95 +1,112 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
 using Zeun.Web.Data;
 using Zeun.Web.Models;
 
 namespace Zeun.Web.Controllers
 {
-     // Login Controller oluşturuldu
     public class LoginController : Controller
     {
         private readonly OgrenciDbContext _context;
-        // DbCOntext  enjekte edildi
+
         public LoginController(OgrenciDbContext context)
         {
             _context = context;
         }
 
-
-        // index action'u
         public IActionResult Index()
         {
             return View();
         }
 
-
-
-        // asenkron login kısmı   claimler ve seasonlar kullanıldı autentication ve autherization 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(Kullanici model)
         {
-            var kullanici = _context.Kullanicis.FirstOrDefault(k => k.KullaniciAdi == model.KullaniciAdi & k.Parola == model.Parola);
-            var kullaniciTuru = _context.KullaniciTurus.FirstOrDefault(kt => kt.KullaniciTurId == kullanici.KullaniciTuruId);
-            if (kullaniciTuru != null)
+            if (string.IsNullOrWhiteSpace(model.KullaniciAdi) || string.IsNullOrWhiteSpace(model.Parola))
             {
-
-                var claims = new List<Claim>
-        {
-            new Claim(ClaimTypes.Name, kullanici.KullaniciAdi),
-            new Claim(ClaimTypes.Role, kullaniciTuru.KullaniciTurAdi),
-
-        };
-
-
-
-                //Kullanıcı türü 1 olan yani öğrenciye geçiş yapma
-
-                if (kullanici.KullaniciTuruId == 1)
-                {
-                    var ogrenci = _context.Ogrencis.FirstOrDefault(o => o.KullaniciId == kullanici.KullaniciId);
-                    var OgrenciId = ogrenci.OgrenciId;
-                    claims.Add(new Claim("OgrenciId", OgrenciId.ToString() ?? string.Empty));
-                    var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                    var authProperties = new AuthenticationProperties();
-                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity),
-                   authProperties);
-
-                    HttpContext.Session.SetInt32("ogrenciId", ogrenci.OgrenciId);
-
-
-
-
-                    return RedirectToAction("Index", "Ogrenci");
-
-                }
-                //öğretim elemanına geçiş yapma
-                else if (kullanici.KullaniciTuruId == 2)
-                {
-                    var ogretimElemani = _context.OgretimElemanis.FirstOrDefault(o => o.KullaniciId == kullanici.KullaniciId);
-                    var ogretimElemaniId = ogretimElemani.OgretimElemaniId;
-                    claims.Add(new Claim("OgretimElemaniId", ogretimElemaniId.ToString() ?? string.Empty));
-                    var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
-                    var authProperties = new AuthenticationProperties();
-                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity),
-                   authProperties);
-
-
-                    //season kullanımı
-                    HttpContext.Session.SetInt32("ogretimElemaniId", ogretimElemani.OgretimElemaniId);
-
-                    return RedirectToAction("Index", "OgretimElemani");
-
-                }
-
-
+                ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
+                return View("Index");
             }
 
-            // hatalı mesajı gösterme
+            // Kullanıcıyı sadece kullanıcı adıyla bul; şifre karşılaştırması hash üzerinden yapılır
+            var kullanici = await _context.Kullanicis
+                .FirstOrDefaultAsync(k => k.KullaniciAdi == model.KullaniciAdi);
+
+            // Kullanıcı yoksa veya şifre hash ile eşleşmiyorsa: aynı genel hata (hangisinin yanlış olduğunu söylemiyoruz)
+            if (kullanici is null || !BCrypt.Net.BCrypt.Verify(model.Parola, kullanici.Parola))
+            {
+                ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
+                return View("Index");
+            }
+
+            var kullaniciTuru = await _context.KullaniciTurus
+                .FirstOrDefaultAsync(kt => kt.KullaniciTurId == kullanici.KullaniciTuruId);
+
+            if (kullaniciTuru is null)
+            {
+                ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
+                return View("Index");
+            }
+
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, kullanici.KullaniciAdi ?? string.Empty),
+                new Claim(ClaimTypes.Role, kullaniciTuru.KullaniciTurAdi ?? string.Empty),
+            };
+
+            // Öğrenci girişi
+            if (kullanici.KullaniciTuruId == 1)
+            {
+                var ogrenci = await _context.Ogrencis
+                    .FirstOrDefaultAsync(o => o.KullaniciId == kullanici.KullaniciId);
+
+                if (ogrenci is null)
+                {
+                    ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
+                    return View("Index");
+                }
+
+                claims.Add(new Claim("OgrenciId", ogrenci.OgrenciId.ToString()));
+                await SignInWithClaimsAsync(claims);
+                HttpContext.Session.SetInt32("ogrenciId", ogrenci.OgrenciId);
+
+                return RedirectToAction("Index", "Ogrenci");
+            }
+
+            // Öğretim elemanı girişi
+            if (kullanici.KullaniciTuruId == 2)
+            {
+                var ogretimElemani = await _context.OgretimElemanis
+                    .FirstOrDefaultAsync(o => o.KullaniciId == kullanici.KullaniciId);
+
+                if (ogretimElemani is null)
+                {
+                    ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
+                    return View("Index");
+                }
+
+                claims.Add(new Claim("OgretimElemaniId", ogretimElemani.OgretimElemaniId.ToString()));
+                await SignInWithClaimsAsync(claims);
+                HttpContext.Session.SetInt32("ogretimElemaniId", ogretimElemani.OgretimElemaniId);
+
+                return RedirectToAction("Index", "OgretimElemani");
+            }
+
             ViewBag.Error = "Kullanıcı Bilgileri Geçersiz";
             return View("Index");
         }
 
+        private async Task SignInWithClaimsAsync(List<Claim> claims)
+        {
+            var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            await HttpContext.SignInAsync(
+                CookieAuthenticationDefaults.AuthenticationScheme,
+                new ClaimsPrincipal(claimsIdentity),
+                new AuthenticationProperties());
+        }
     }
 }

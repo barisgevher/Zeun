@@ -35,7 +35,7 @@
                     <img src="~/content/icons/img-01.png" alt="IMG">
                 </div>
 
-                <form class="login100-form validate-form" action="/Login/Login" method="post">
+                <form class="login100-form validate-form" method="post" asp-controller="Login" asp-action="Login">
                     <span class="login100-form-title">
                         <div class="login100-pic js-tilt" data-tilt>
                             <img src="~/content/icons/zaun.jpg" alt="IMG">
@@ -43,25 +43,14 @@
                     </span>
 
                     <div class="wrap-input100 validate-input">
-
-
-                        <input class="input100" type="text" asp-for="KullaniciAdi" name="KullaniciAdi" placeholder="Kullanıcı Adı">
+                        <input class="input100" type="text" asp-for="KullaniciAdi" placeholder="Kullanıcı Adı">
                         <span class="focus-input100"></span>
-
-                        <br />
-
-                        <div class="wrap-input100 validate-input" data-validate="Password is required">
-                            <input class="input100" type="password" asp-for="Parola" name="Parola" placeholder="Parola">
-                            <span class="focus-input100"></span>
-
-                        </div>
-                        ,
-
-
                     </div>
 
-
-
+                    <div class="wrap-input100 validate-input" data-validate="Password is required">
+                        <input class="input100" type="password" asp-for="Parola" placeholder="Parola">
+                        <span class="focus-input100"></span>
+                    </div>
 
                     <div class="container-login100-form-btn">
                         <button class="login100-form-btn" type="submit">
@@ -95,7 +84,7 @@
 
     <script>
         $('.js-tilt').tilt({
-            scale: 1.1
+        scale: 1.1
         })
     </script>
 

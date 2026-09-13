@@ -380,7 +380,7 @@ public partial class OgrenciDbContext : DbContext
             entity.Property(e => e.KullaniciId).HasColumnName("KullaniciID");
             entity.Property(e => e.KullaniciAdi).HasMaxLength(50);
             entity.Property(e => e.KullaniciTuruId).HasColumnName("KullaniciTuruID");
-            entity.Property(e => e.Parola).HasMaxLength(50);
+            entity.Property(e => e.Parola).HasMaxLength(100);
 
             entity.HasOne(d => d.KullaniciTuru).WithMany(p => p.Kullanicis)
                 .HasForeignKey(d => d.KullaniciTuruId)
